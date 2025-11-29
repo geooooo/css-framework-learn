@@ -1,4 +1,4 @@
-# Примеры использования css фреймоврков
+# Examples of usage css frameworks
 
-## Задействованные фреймворки:
+## Used frameworks:
 * [Skeleton](http://getskeleton.com/)
